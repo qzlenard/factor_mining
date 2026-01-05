@@ -1,0 +1,17 @@
+# venv
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# big dirs (if exist)
+data/
+out/
+state/
+logs/

@@ -15,3 +15,7 @@ data/
 out/
 state/
 logs/
+
+#special files
+gen_skeletons_from_contract.py
+verify_contract_coverage.py
